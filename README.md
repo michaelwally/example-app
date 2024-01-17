@@ -1,4 +1,4 @@
-# breathwork-challenge
+# Example App
 
 ## Architecture
 I implemented a MvvM type architecture and utilized a clean architecture approach where the data layer is independent of all other layers, the domain layer only depends on the data layer and the presentation layer depends on the others. I particularly like this approach as it modularizes business logic and decouples it from presentation so it is easily reuseable and testable.
